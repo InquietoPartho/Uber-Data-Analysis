@@ -31,15 +31,15 @@ The analysis is based on the `Uber Drives.csv` dataset, which contains records o
    ```sh
    jupyter notebook uber.ipynb
 
-##Usage
+## Usage
 - Open the notebook and execute the cells sequentially to generate visualizations and insights.
 - Modify the dataset or extend the analysis as needed.
 
-##Results
+## Results
 - Ride frequency distribution by time
 - Peak hours and busy locations
 - Trend analysis over different periods\
 
   
-##Contributing
+## Contributing
 Contributions are welcome! Feel free to submit issues or pull requests.
